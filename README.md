@@ -1,5 +1,6 @@
 # Analisis de Ventas
 Este repositorio contiene un análisis de ventas de diferentes productos basados en sus códigos. El objetivo principal es visualizar la cantidad y el monto de las ventas, así como obtener información sobre las fechas en las que se realizaron.
+![Analisis de Venta](./Analisis.png)
 # Contenido del Repositorio
 ## visualizations
 Esta carpeta contiene las visualizaciones generadas a partir del análisis de ventas. Se proporcionan en formato de imágenes y se dividen en subcarpetas para una organización adecuada.
