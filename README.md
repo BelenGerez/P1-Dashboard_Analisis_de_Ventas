@@ -1,14 +1,41 @@
-# Analisis de Ventas
-Este repositorio contiene un análisis de ventas de diferentes productos basados en sus códigos. El objetivo principal es visualizar la cantidad y el monto de las ventas, así como obtener información sobre las fechas en las que se realizaron.
-![Analisis de Venta](./Analisis.png)
-# Contenido del Repositorio
-## visualizations
-Esta carpeta contiene las visualizaciones generadas a partir del análisis de ventas. Se proporcionan en formato de imágenes y se dividen en subcarpetas para una organización adecuada.
-## Link del Proyecto
-[Analisis de Ventas](https://app.powerbi.com/reportEmbed?reportId=eccce566-98e0-4b37-8a77-73e134276aaa&autoAuth=true&ctid=843d9746-0674-48bf-a402-a45cd06f541a)
-### Recuerda ingresar con tu cuenta para interacturar 
+# Tablero de Análisis de Ventas
 
-## Codigo Qr
-![Analisis de Venta](./ANALISIS_DE_VENTAS.jpg)
+¡Bienvenido a mi proyecto de análisis de ventas!
+
+## Objetivo
+El objetivo de este proyecto es proporcionar una herramienta interactiva para analizar el desempeño de las ventas de una empresa. El tablero de análisis de ventas presenta una variedad de visualizaciones y métricas clave para ayudar a identificar tendencias, patrones y áreas de oportunidad en las ventas.
+
+## Características
+- Visualizaciones interactivas de ventas totales, tendencias mensuales, distribución geográfica de ventas, etc.
+- Métricas destacadas como ventas por producto, margen de beneficio, desempeño de vendedores, entre otros.
+- Funcionalidades de filtrado y drill-down para explorar los datos a diferentes niveles de detalle.
+- Diseño intuitivo y fácil de navegar para una experiencia de usuario óptima.
+
+## Capturas de Pantalla
+![Analisis de Venta](./Analisis.png)
+
+## Cómo Usar
+1. Clona este repositorio a tu máquina local.
+2. Abre el archivo `index.html` en tu navegador web.
+3. Explora las diferentes visualizaciones y métricas utilizando los filtros interactivos.
+
+
+## Tecnologías Utilizadas
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI">
+  <p>Power BI</p>
+</div>
+
+
+
+## Contribución
+Las contribuciones son bienvenidas. Si tienes ideas para mejorar este proyecto, no dudes en abrir un _issue_ o enviar un _pull request_.
+
+## Contacto
+Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo a través de [correo electrónico](gerezbelen875@gmail.com) 
+
+---
+
+_Este proyecto es parte de mi portfolio de análisis de datos. Visita mi perfil para conocer más sobre otros proyectos y experiencias._
 
 
