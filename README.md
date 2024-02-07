@@ -12,7 +12,7 @@ El objetivo de este proyecto es proporcionar una herramienta interactiva para an
 - Diseño intuitivo y fácil de navegar para una experiencia de usuario óptima.
 
 ## Capturas de Pantalla
-![Analisis de Venta](./Analisis.png)
+ ![image](https://github.com/BelenGerez/Analisis_de_Ventas/assets/108203320/2c75cf69-6c64-4145-bdf4-a1dc35844b3f)
 
 ## Cómo Usar
 1. Clona este repositorio a tu máquina local.
