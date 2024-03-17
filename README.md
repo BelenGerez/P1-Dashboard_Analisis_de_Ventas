@@ -1,4 +1,4 @@
-# Tablero de Análisis de Ventas
+# Dashboard de Análisis de Ventas
 
 ¡Bienvenido a mi proyecto de análisis de ventas!
 
