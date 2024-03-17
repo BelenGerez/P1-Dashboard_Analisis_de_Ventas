@@ -36,6 +36,6 @@ Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo 
 
 ---
 
-_Este proyecto es parte de mi portfolio de análisis de datos. Visita mi perfil para conocer más sobre otros proyectos y experiencias._
+_Este proyecto es parte de mi portfolio de análisis de datos/Business Analyst . Visita mi perfil para conocer más sobre otros proyectos y experiencias._
 
 
