@@ -16,7 +16,7 @@ El objetivo de este proyecto es proporcionar una herramienta interactiva para an
 
 ## Cómo Usar
 1. Clona este repositorio a tu máquina local.
-2. Abre el archivo `Proyectos_analisis_de_ventas` en tu navegador web.
+2. Abre el archivo `Proyectos_analisis_de_ventas` en tu POWER BI.
 3. Explora las diferentes visualizaciones y métricas utilizando los filtros interactivos.
 
 
